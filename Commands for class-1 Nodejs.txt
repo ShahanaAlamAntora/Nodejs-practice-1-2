@@ -1,0 +1,11 @@
+1. cd Desktop
+2. mkdir class-02-Nodejs
+3. cd class-02-Nodejs
+4. npm init
+5. npm install express --save
+6. npm install sequelize -cli -g
+7. npm install sequelize -cli --save
+8. npm install mysql2 --save
+9. After that go --> to --> Config --> config.json
+10. Change database name which is created in mysql2 from development, test, production
+11. sequelize db:migrate

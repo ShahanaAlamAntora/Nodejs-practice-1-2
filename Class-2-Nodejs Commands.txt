@@ -1,0 +1,8 @@
+0. sequelize db:migrate --name student
+pore code kore up and down er code
+1. sequelize db:migrate
+ta data base e jabe
+2. sequelize db:migrate:undo
+3. npm install nodemon --save
+4. npm install nodemon -g
+5. node index.js
